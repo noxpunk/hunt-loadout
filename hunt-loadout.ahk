@@ -6,6 +6,7 @@
 ; Run script as admin
 ; Switch game settings to Borderless Windowed to prevent DirectX from messing up AHK input
 ; Ensure that Hunt has focus before using the hotkey
+; Ensure that all slots are empty
 
 CoordMode, Mouse, Screen 
 MouseClick, left, 900, 200 ; click equipment tab
